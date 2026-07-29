@@ -21,7 +21,7 @@ MindMate detects the user's current mood and recommends personalized content/gam
 ## How to Run
 
 **Option 1 — From source (NetBeans)**
-1. Clone this repository: git clone https://github.com/samhere3116-maker/FinalProject.git
+1. Clone this repository: git clone https:https://github.com/samhere3116-maker/FinalPrjoect
 
 2. Open NetBeans → File → Open Project → select the cloned folder
 3. Right-click the project → Run
